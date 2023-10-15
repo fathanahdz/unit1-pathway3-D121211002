@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardFathanahDz</string>
+    <string name="name_surname">Nurunnisa Fathanah Dz. S. B.</string>
+    <string name="business">Informatics Engineering Student</string>
+    <string name="phone_number">+6285158120033</string>
+    <string name="email_text">fathanah.uni@gmail.com</string>
+    <string name="share_text">bento.me/fathanahdz</string>
+</resources>
